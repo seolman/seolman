@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**tjfehdgns1/tjfehdgns1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+***
 ,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
 | ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] |   <-  |
 |---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
