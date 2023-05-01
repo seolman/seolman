@@ -17,11 +17,14 @@
 
 ***
 ### **Stack**
-<a href="https://www.python.org"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img alt="godotengine" src ="https://img.shields.io/badge/Godot-478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white"/>
-<img alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white"/>
+<p align="center">
+  <a href="https://www.python.org"><img height="32px" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+  <a href="https://docs.godotengine.org/en/stable/"><img height="32px" alt="godotengine" src ="https://img.shields.io/badge/Godot-478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white"/></a>
+  <a href="https://docs.ros.org/"><img height="32px" alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white"/></a>
+</p>
 
 ***
-<img alt="steam" src ="https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-<img alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198435487509/"><img height="32px" alt="steam" src ="https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <img height="32px" alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+</p>
