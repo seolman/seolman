@@ -47,5 +47,5 @@
   <a href="https://tjfehdgns1.github.io/"><img height="32px" alt="githubpages" src ="https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <img height="32px" alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
   <a href=""><img height="32px" alt="gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=""><img height="32px" alt="disqus" src ="https://img.shields.io/badge/disqus-5865F2.svg?&style=for-the-badge&logo=disqus&logoColor=white"/></a>
+  <a href=""><img height="32px" alt="discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
