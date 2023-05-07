@@ -24,7 +24,7 @@
   <a href="https://www.markdownguide.org/"><img height="32px" alt="markdown" src ="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></a>
   <a href="https://www.aseprite.org/"><img height="32px" alt="aseprite" src ="https://img.shields.io/badge/aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img height="32px" alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visual studio code&logoColor=white"/></a>
-  <a href="https://www.microsoft.com/ko-kr/"><img height="32px" alt="windows" src ="https://img.shields.io/badge/windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/ko-kr/windows/"><img height="32px" alt="windows" src ="https://img.shields.io/badge/windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href="https://github.com/tjfehdgns1"><img height="32px" alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img height="32px" alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
