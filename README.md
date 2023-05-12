@@ -27,6 +27,7 @@
   <a href="https://www.microsoft.com/ko-kr/windows/"><img height="32px" alt="windows" src ="https://img.shields.io/badge/windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href="https://github.com/tjfehdgns1"><img height="32px" alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img height="32px" alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+  
 </p>
 
 ***
@@ -36,6 +37,8 @@
    <a href="https://docs.ros.org/"><img height="32px" alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white"/></a>
    <a href="https://docs.modular.com/mojo/"><img height="32px" alt="mojo" src ="https://img.shields.io/badge/Mojo-000000.svg?&style=for-the-badge&logo=fireship&logoColor=white"/></a>
    <a href="https://ubuntu.com/"><img height="32px" alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+   <a href="https://www.blender.org/"><img height="32px" alt="blender" src ="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
+   <a href="https://www.microsoft.com/ko-kr/microsoft-365/excel"><img height="32px" alt="microsoftexcel" src ="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=Excel&logoColor=white"/></a>
 </p>
 
 ***
