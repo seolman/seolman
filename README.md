@@ -53,10 +53,11 @@
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198435487509/"><img height="32px" alt="steam" src ="https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://seolman.itch.io/"><img height="32px" alt="itch.io" src ="https://img.shields.io/badge/itch.io-FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"/></a>
-  <a href="https://tjfehdgns1.github.io/"><img height="32px" alt="githubpages" src ="https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tjf.dh/"><img height="32px" alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/seol_man"><img height="32px" alt="twitter" src ="https://img.shields.io/badge/twitter-1D9BF0.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href=""><img height="32px" alt="discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>	
   <a href=""><img height="32px" alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
   <a href=""><img height="32px" alt="gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=""><img height="32px" alt="discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href=""><img height="32px" alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://bmc.link/seolman"><img height="32px" alt="buymeacoffee" src ="https://img.shields.io/badge/buymeacoffee-FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+  <a href="https://tjfehdgns1.github.io/"><img height="32px" alt="githubpages" src ="https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
