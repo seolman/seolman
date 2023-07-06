@@ -57,7 +57,6 @@
   <a href="https://twitter.com/seol_man"><img height="32px" alt="twitter" src ="https://img.shields.io/badge/twitter-1D9BF0.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href=""><img height="32px" alt="discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>	
   <a href=""><img height="32px" alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-  <a href=""><img height="32px" alt="gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://bmc.link/seolman"><img height="32px" alt="buymeacoffee" src ="https://img.shields.io/badge/buymeacoffee-FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
   <a href="https://tjfehdgns1.github.io/"><img height="32px" alt="githubpages" src ="https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
