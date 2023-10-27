@@ -64,3 +64,6 @@
 ***
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224)](https://solved.ac/o10224/)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjfehdgns1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=4"/>
+
