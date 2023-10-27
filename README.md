@@ -60,3 +60,7 @@
   <a href="https://bmc.link/seolman"><img height="32px" alt="buymeacoffee" src ="https://img.shields.io/badge/buymeacoffee-FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
   <a href="https://tjfehdgns1.github.io/"><img height="32px" alt="githubpages" src ="https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
+
+***
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224)](https://solved.ac/o10224/)
