@@ -65,5 +65,5 @@
 
 <div align="center">
   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjfehdgns1&layout=compact&hide=&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjfehdgns1&layout=compact&hide=&theme=dracula&langs_count=4"/>
 </div>
