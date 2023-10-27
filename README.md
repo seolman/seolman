@@ -63,7 +63,7 @@
 
 ***
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224)](https://solved.ac/o10224/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjfehdgns1&layout=compact&hide=&theme=dracula&langs_count=8"/>
-
+<div align="center">
+  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjfehdgns1&layout=compact&hide=&theme=dracula&langs_count=8"/>
+</div>
