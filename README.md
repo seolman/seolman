@@ -37,6 +37,7 @@
 ### **Planning** 📦
 <p align="center">
    <a href="https://docs.modular.com/mojo/"><img height="32px" alt="mojo" src ="https://img.shields.io/badge/Mojo-000000.svg?&style=for-the-badge&logo=fireship&logoColor=white"/></a>
+    <a href="https://cmake.org/cmake/help/latest/"><img height="32px" alt="cmake" src ="https://img.shields.io/badge/cmake-064F8C.svg?&style=for-the-badge&logo=cmake&logoColor=white"/></a>
    <a href="https://www.blender.org/"><img height="32px" alt="blender" src ="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
    <a href="https://www.microsoft.com/ko-kr/microsoft-365/excel"><img height="32px" alt="microsoftexcel" src ="https://img.shields.io/badge/excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
    <a href="https://aws.amazon.com/"><img height="32px" alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
