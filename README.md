@@ -36,16 +36,18 @@
 
 ### **Planning** 📦
 <p align="center">
-   <a href="https://docs.modular.com/mojo/"><img height="32px" alt="mojo" src ="https://img.shields.io/badge/Mojo-000000.svg?&style=for-the-badge&logo=fireship&logoColor=white"/></a>
-    <a href="https://cmake.org/cmake/help/latest/"><img height="32px" alt="cmake" src ="https://img.shields.io/badge/cmake-064F8C.svg?&style=for-the-badge&logo=cmake&logoColor=white"/></a>
-   <a href="https://www.blender.org/"><img height="32px" alt="blender" src ="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
-   <a href="https://www.microsoft.com/ko-kr/microsoft-365/excel"><img height="32px" alt="microsoftexcel" src ="https://img.shields.io/badge/excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
-   <a href="https://aws.amazon.com/"><img height="32px" alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-   <a href="https://www.audacityteam.org/"><img height="32px" alt="audacity" src ="https://img.shields.io/badge/audacity-F5792A.svg?&style=for-the-badge&logo=audacity&logoColor=white"/></a>
-   <a href="https://learn.microsoft.com/ko-kr/cpp/?view=msvc-170"><img height="32px" alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://mariadb.org/"><img height="32px" alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/"><img height="32px" alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="https://www.tensorflow.org/"><img height="32px" alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+	<a href="https://learn.microsoft.com/ko-kr/cpp/?view=msvc-170"><img height="32px" alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+	<a href="https://cmake.org/cmake/help/latest/"><img height="32px" alt="cmake" src ="https://img.shields.io/badge/cmake-064F8C.svg?&style=for-the-badge&logo=cmake&logoColor=white"/></a>
+	<a href="https://docs.opencv.org/4.x/"><img height="32px" alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/></a>
+	<a href="https://www.raspberrypi.com/documentation/"><img height="32px" alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
+ 	<a href="https://docs.modular.com/mojo/"><img height="32px" alt="mojo" src ="https://img.shields.io/badge/Mojo-000000.svg?&style=for-the-badge&logo=fireship&logoColor=white"/></a>
+	<a href="https://www.blender.org/"><img height="32px" alt="blender" src ="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/></a>
+	<a href="https://www.microsoft.com/ko-kr/microsoft-365/excel"><img height="32px" alt="microsoftexcel" src ="https://img.shields.io/badge/excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
+	<a href="https://aws.amazon.com/"><img height="32px" alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+	<a href="https://www.audacityteam.org/"><img height="32px" alt="audacity" src ="https://img.shields.io/badge/audacity-F5792A.svg?&style=for-the-badge&logo=audacity&logoColor=white"/></a>
+	<a href="https://mariadb.org/"><img height="32px" alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+	<a href="https://www.mongodb.com/"><img height="32px" alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+	<a href="https://www.tensorflow.org/"><img height="32px" alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </p>
 
 ***
