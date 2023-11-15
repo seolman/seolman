@@ -48,6 +48,9 @@
 	<a href="https://mariadb.org/"><img height="32px" alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 	<a href="https://www.mongodb.com/"><img height="32px" alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 	<a href="https://www.tensorflow.org/"><img height="32px" alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+	<a href="https://neovim.io/doc/"><img height="32px" alt="neovim" src ="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
+	<a href="https://www.lua.org/docs.html"><img height="32px" alt="lua" src ="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>
+	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </p>
 
 ***
