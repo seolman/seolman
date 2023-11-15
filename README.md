@@ -30,6 +30,7 @@
 	<a href="https://www.microsoft.com/ko-kr/windows/"><img height="32px" alt="windows" src ="https://img.shields.io/badge/windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
 	<a href="https://ubuntu.com/"><img height="32px" alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 	<a href="https://www.docker.com/"><img height="32px" alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
+	<a href="https://obsidian.md/"><img height="32px" alt="obsidian" src ="https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 </p>
 
 ***
@@ -51,6 +52,7 @@
 	<a href="https://neovim.io/doc/"><img height="32px" alt="neovim" src ="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 	<a href="https://www.lua.org/docs.html"><img height="32px" alt="lua" src ="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>
 	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
+	<a href="https://doc.rust-lang.org/book/"><img height="32px" alt="rust" src ="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
 
 ***
