@@ -53,6 +53,7 @@
 	<a href="https://www.lua.org/docs.html"><img height="32px" alt="lua" src ="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>
 	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 	<a href="https://doc.rust-lang.org/book/"><img height="32px" alt="rust" src ="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>
+	<a href="https://go.dev/doc/"><img height="32px" alt="Go" src ="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
 ***
