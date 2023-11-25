@@ -32,6 +32,7 @@
 	<a href="https://www.docker.com/"><img height="32px" alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 	<a href="https://obsidian.md/"><img height="32px" alt="obsidian" src ="https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 	<a href="https://www.lua.org/docs.html"><img height="32px" alt="lua" src ="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>
+	<a href="https://neovim.io/doc/"><img height="32px" alt="neovim" src ="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 </p>
 
 ***
@@ -50,10 +51,10 @@
 	<a href="https://mariadb.org/"><img height="32px" alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 	<a href="https://www.mongodb.com/"><img height="32px" alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 	<a href="https://www.tensorflow.org/"><img height="32px" alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-	<a href="https://neovim.io/doc/"><img height="32px" alt="neovim" src ="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 	<a href="https://doc.rust-lang.org/book/"><img height="32px" alt="rust" src ="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>
 	<a href="https://go.dev/doc/"><img height="32px" alt="Go" src ="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
+ 	<a href="https://fastapi.tiangolo.com/"><img height="32px" alt="fastapi" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/></a>
 </p>
 
 ***
