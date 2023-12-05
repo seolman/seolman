@@ -26,13 +26,14 @@
 	<a href="https://docs.godotengine.org/en/stable/"><img height="32px" alt="godotengine" src ="https://img.shields.io/badge/Godot-478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white"/></a>
 	<a href="https://git-scm.com/"><img height="32px" alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 	<a href="https://github.com/tjfehdgns1"><img height="32px" alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-	<a href="https://docs.ros.org/"><img height="32px" alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white"/></a>
+	<a href="https://fastapi.tiangolo.com/"><img height="32px" alt="fastapi" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/></a>
 	<a href="https://code.visualstudio.com/"><img height="32px" alt="visualstudiocode" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=visual studio code&logoColor=white"/></a>
 	<a href="https://neovim.io/doc/"><img height="32px" alt="neovim" src ="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 	<a href="https://obsidian.md/"><img height="32px" alt="obsidian" src ="https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 	<a href="https://www.aseprite.org/"><img height="32px" alt="aseprite" src ="https://img.shields.io/badge/aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/></a>
 	<a href="https://www.microsoft.com/ko-kr/windows/"><img height="32px" alt="windows" src ="https://img.shields.io/badge/windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
 	<a href="https://ubuntu.com/"><img height="32px" alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+	<a href="https://www.gnu.org/software/bash/"><img height="32px" alt="bash" src ="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 	<a href="https://www.docker.com/"><img height="32px" alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
 
@@ -55,7 +56,7 @@
 	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 	<a href="https://doc.rust-lang.org/book/"><img height="32px" alt="rust" src ="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>
 	<a href="https://go.dev/doc/"><img height="32px" alt="Go" src ="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
- 	<a href="https://fastapi.tiangolo.com/"><img height="32px" alt="fastapi" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+	<a href="https://docs.ros.org/"><img height="32px" alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white"/></a>
 </p>
 
 ***
