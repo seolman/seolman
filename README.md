@@ -35,6 +35,7 @@
 	<a href="https://ubuntu.com/"><img height="32px" alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 	<a href="https://www.gnu.org/software/bash/"><img height="32px" alt="bash" src ="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 	<a href="https://www.docker.com/"><img height="32px" alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
+	<a href="https://www.postgresql.org/"><img height="32px" alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 </p>
 
 ***
@@ -50,7 +51,6 @@
 	<a href="https://www.microsoft.com/ko-kr/microsoft-365/excel"><img height="32px" alt="microsoftexcel" src ="https://img.shields.io/badge/excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
 	<a href="https://aws.amazon.com/"><img height="32px" alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 	<a href="https://www.audacityteam.org/"><img height="32px" alt="audacity" src ="https://img.shields.io/badge/audacity-F5792A.svg?&style=for-the-badge&logo=audacity&logoColor=white"/></a>
-	<a href="https://mariadb.org/"><img height="32px" alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 	<a href="https://www.mongodb.com/"><img height="32px" alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 	<a href="https://www.tensorflow.org/"><img height="32px" alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 	<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img height="32px" alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
