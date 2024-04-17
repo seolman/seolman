@@ -54,5 +54,5 @@
 ***
 
 <div align="center">
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224"/>
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=o10224"/>
 </div>
